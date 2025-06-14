@@ -3,8 +3,8 @@
 ## Project Objective  
 Ferns and Petals (FNP), a gifting and floral brand, aims to analyze its 2023 sales data to uncover trends in customer behavior, product performance, and seasonal demand. The insights will help shape better sales strategies for 2024 and beyond.
 
-## Dataset used  
-- *Private company data (Excel format)*  
+## Dataset
+The dataset includes product orders, delivery details, customer demographics, product categories, occasions, and time stamps such as order and delivery dates.  
 
 ## Questions (KPIs)  
 - What is the total revenue generated?  
