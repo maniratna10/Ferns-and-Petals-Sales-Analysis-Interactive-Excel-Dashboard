@@ -28,7 +28,7 @@ The dataset includes product orders, delivery details, customer demographics, pr
 - Visualized data by categories, occasions, dates, cities, and customer segments  
 
 ## Dashboard  
-![Ferns-and-Petals-Sales-Dashboard](https://github.com/maniratna10/Ferns-and-Petals-Sales-Analysis-Interactive-Excel-Dashboard/blob/main/DashBoard.png)
+![Ferns-and-Petals-Sales-Dashboard](https://github.com/maniratna10/Ferns-and-Petals-Sales-Analysis-Interactive-Excel-Dashboard/blob/main/Dashboard.png)
 
 ## Project Insight  
 - Most revenue came from categories like Colors, Soft Toys, and Sweets  
